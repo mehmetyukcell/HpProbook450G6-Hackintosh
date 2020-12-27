@@ -1,2 +1,2 @@
-# HpProbook450G6-Hackintosh
-Hp Probook 450 G6 Core i7 8565U Hackintosh Catalina
+# HpProbook450G6-Hackintosh-Big Sur OpenCore
+Hp Probook 450 G6 Core i7 8565U Hackintosh Big Sur with OpenCore 0.6.4
